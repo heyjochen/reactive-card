@@ -3,7 +3,7 @@ export default [
     id: 1,
     title: "Isla Mujeres",
     location: "México",
-    googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+    googleMapsUrl: "https://goo.gl/maps/hzu578E8F5giESrY6",
     startDate: "28 Jan, 2022",
     endDate: "8 Feb, 2022",
     description:
@@ -14,7 +14,7 @@ export default [
     id: 2,
     title: "Berlin",
     location: "Germany",
-    googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+    googleMapsUrl: "https://goo.gl/maps/Qj9gNiFes3BmVJGUA",
     startDate: "28 Okt, 2021",
     endDate: "26 Nov, 2021",
     description:
@@ -25,7 +25,7 @@ export default [
     id: 3,
     title: "Los Ayala",
     location: "México",
-    googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
+    googleMapsUrl: "https://goo.gl/maps/jYiLsk89gDE5DXxa7",
     startDate: "14 Aug, 2021",
     endDate: "24 Aug, 2021",
     description:
