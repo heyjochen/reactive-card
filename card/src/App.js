@@ -11,7 +11,9 @@ export default function App() {
   return (
     <>
       <Header />
-      <section className="main">{cards}</section>
+      <section>
+        <main className="main">{cards}</main>
+      </section>
     </>
   );
 }
