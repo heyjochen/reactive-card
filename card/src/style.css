@@ -1,5 +1,7 @@
 * {
   box-sizing: border-box;
+  margin: 0;
+  padding: 0;
 }
 
 body {
@@ -21,6 +23,7 @@ header {
   display: flex;
   justify-content: center;
   align-items: center;
+  gap: 1em;
   color: white;
   background-color: #5a98f5;
 }
@@ -31,6 +34,26 @@ a {
   font-weight: 700;
 }
 
-/* .header__img{
+.main {
+  margin: 0;
+  padding: 0;
+}
 
-} */
+.card {
+  display: flex;
+  max-width: 980px;
+  padding: 2em;
+}
+
+.card__img {
+  object-fit: cover;
+  width: 15em;
+  aspect-ratio: 4/5;
+}
+
+.card__text {
+  padding: 2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
