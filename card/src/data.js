@@ -19,7 +19,7 @@ export default [
     startDate: "28 Okt, 2021",
     endDate: "26 Nov, 2021",
     description:
-      "Berlin's history of battling ideologies makes for some of the most fascinating sightseeing in Europe. Explore the remnants of the Berlin Wall, the glorious dome atop the Reichstag (Parliament Building) or the peaceful greenery in Tiergarten.",
+      "Hamburg is one of the most beautiful cities in the world and radiates an incomparable charm. Go on a discovery tour through the city by the Elbe and explore the most beautiful sights, attend unique events or feast in the most delicious restaurants & cafés.",
     imageUrl:
       "https://github.com/heyjochen/reactive-card/blob/main/card/src/assets/IMG_0895.JPG?raw=true",
   },
